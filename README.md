@@ -7,13 +7,9 @@ Langkah-langkah untuk menjalankan:
 
     A. Install Flask
 
-        Jika belum:
-
         pip install flask
 
     B. Jalankan API.py
-
-        Lalu jalankan API-nya:
 
         python3 API.py
 
@@ -24,7 +20,7 @@ Langkah-langkah untuk menjalankan:
 
         k6 version
 
-        Jika belum terinstal, instal dengan:
+    B. Jika belum terinstal, instal dengan:
 
         brew install k6
 
